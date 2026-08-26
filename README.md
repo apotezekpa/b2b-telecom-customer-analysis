@@ -22,3 +22,6 @@ The goal is to explore customer, revenue, payment, service, and satisfaction dat
 4. Build interactive PivotTables and charts
 5. Create an Excel dashboard
 6. Identify key business findings and recommendations
+## Dashboard
+
+![B2B Telecom Customer Performance Dashboard](dashboard.png)
